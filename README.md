@@ -24,7 +24,7 @@ This C++ console application helps manage clients seeking to learn about AI, sch
   - Match clients with appropriate AI learning paths
 
 - **User Management**
-  - Support for multiple user roles (Admin, Tutor, Staff)
+  - Support for multiple user roles (Admin, Tutor)
   - Role-based access control
   - Secure authentication
 
@@ -78,7 +78,7 @@ AITutoringCRM/
 
 1. Clone the repository
    ```
-   git clone [repository-url]
+   git clone https://github.com/farengi/Aurai
    cd AITutoringCRM
    ```
 
